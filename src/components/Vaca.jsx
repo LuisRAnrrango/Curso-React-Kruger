@@ -22,7 +22,7 @@ export const Vaca = ({ name, descripcion, tieneHijo, image }) => {
         </p>
       </div>
       <div className="pie">
-        <a>Más información</a>
+        <p href="#">Más información</p>
       </div>
     </div>
   );
