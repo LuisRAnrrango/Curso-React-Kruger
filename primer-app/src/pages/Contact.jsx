@@ -8,6 +8,7 @@ export const Contact = () => {
       <h3>Contact</h3>
       <Cat></Cat>
       <br />
+      
       <Contador></Contador>
     </div>
   );
